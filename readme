@@ -1,1 +1,1 @@
-This repository serves as a reference for my dissertation paper about securing open banking. This contains the list of third-party providers data including the HTTP headers and the IP addresses hosting.
+This repository serves as a reference for my dissertation paper at the University of West London. It is about securing open banking and contains a list of relevant third-party providers (TPP). The TPPs' data includes the site's HTTP header information and IP address hosting.
