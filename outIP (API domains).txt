@@ -1,0 +1,1147 @@
+Output IP
+api.mx.com lb.prod.mx.com.
+lb.prod.mx.com.akadns.net.
+68.142.151.143
+api.tink.com 34.243.69.11
+54.171.180.47
+52.51.41.247
+api.plaid.com 
+api.m2pfintech.com 
+api.crossriver.com 
+api.yodlee.com 
+api.solarisgroup.com auth-platform-proxies-api-1940692590.eu-central-1.elb.amazonaws.com.
+52.29.27.226
+18.195.174.233
+18.153.245.51
+api.truelayer.com 104.18.24.12
+104.18.25.12
+api.pomelo.la 104.18.8.54
+104.18.9.54
+api.dock.tech 
+api.belvo.com api.belvo.com.cdn.cloudflare.net.
+104.18.6.116
+104.18.7.116
+api.codat.io 104.18.5.140
+104.18.4.140
+api.yapily.com 34.120.204.224
+api.gromo.in 13.234.53.175
+13.126.77.56
+api.moneyhub.com 
+api.galileo-ft.com d1kv5lmhhwym03.cloudfront.net.
+18.155.68.74
+18.155.68.81
+18.155.68.29
+18.155.68.105
+api.weavr.io 
+api.snoop.app 
+api.bond.tech j.sni.global.fastly.net.
+199.232.46.132
+api.modulrfinance.com api-prd.aws.modulrfinance.io.
+52.214.226.30
+54.246.116.42
+34.252.41.167
+api.thisisbud.com 104.17.22.92
+104.17.111.57
+api.silamoney.com sila-prod-lb-1261919740.us-west-2.elb.amazonaws.com.
+52.88.63.243
+54.213.230.171
+api.banked.com 104.18.25.163
+104.18.24.163
+api.quovo.com 
+api.token.io 3.126.76.138
+52.29.148.192
+3.75.6.110
+api.apiture.com api.apiture-comm-prod.com.
+13.33.88.80
+13.33.88.94
+13.33.88.87
+13.33.88.79
+api.floatme.com 
+api.pismo.io api.pismo.io.cdn.cloudflare.net.
+104.18.22.218
+104.18.23.218
+api.synapsefi.com 172.66.40.226
+172.66.43.30
+api.zetapp.in 65.1.190.126
+65.2.7.76
+13.234.79.241
+api.clear.bank 
+api.finlocker.com 23.99.217.20
+api.banksathi.com 172.67.38.164
+104.22.65.242
+104.22.64.242
+api.finicity.com yra8rct.impervadns.net.
+45.223.22.70
+api.deposit-solutions.com 
+api.finix.com 
+api.primetrust.com 104.18.30.80
+104.18.31.80
+api.omnio.global 
+api.enfuce.com 
+api.tarabutgateway.com 
+api.decentro.tech 3.111.143.123
+api.finbox.in 52.66.166.191
+api.celcoin.com.br apicorp-celcoin.trafficmanager.net.
+apim-ml-br.celcoin.com.br.
+20.226.182.169
+api.niyogin.com 
+api.bankifi.com 
+api.mono.co 
+api.stitch.money 172.66.41.42
+172.66.42.214
+api.methodfi.com 172.66.40.136
+172.66.43.120
+api.fabrick.com 213.218.52.157
+api.treasuryprime.com 44.241.139.203
+52.33.4.61
+52.39.29.139
+api.qitech.com.br 
+api.flinks.com 
+api.card91.io 52.66.128.104
+65.2.28.216
+65.1.48.81
+api.orum.io 104.18.11.74
+104.18.10.74
+api.informediq.com 52.42.56.146
+52.39.4.73
+api.fidelapi.com 18.165.183.83
+18.165.183.55
+18.165.183.113
+18.165.183.30
+api.brankas.com 34.87.54.99
+api.fintecsystems.com 
+api.doconomy.com 54.246.177.47
+54.171.207.67
+34.249.87.203
+api.ayoconnect.com 
+api.upswing.one 
+api.leantech.me 139.185.34.2
+api.digiasia.asia 149.129.233.206
+api.alviere.com fb9f193d-sierra-sierraingr-e768-781433188.us-west-2.elb.amazonaws.com.
+34.215.228.9
+52.35.138.128
+52.41.128.9
+api.rightfoot.com 
+api.swan.io 52.48.14.63
+52.17.10.111
+34.250.85.227
+api.bond.ai 
+api.neokred.tech 
+api.ndgit.com 207.154.203.58
+api.canopyservicing.com 
+api.novopayment.com 35.196.23.22
+api.solidfi.com 108.157.254.16
+108.157.254.99
+108.157.254.58
+108.157.254.97
+api.rizefs.com 
+api.sandboxbanking.com 
+api.bloomcredit.io 104.18.5.211
+104.18.4.211
+api.weav.co 
+api.finerioconnect.com 
+api.komunalgroup.com 
+api.onebrick.io 108.137.147.241
+43.218.2.161
+108.137.99.120
+api.fispan.com 
+api.qwist.com 
+api.spade.com 
+api.cobase.com k8s-cbsx-prd.trafficmanager.net.
+k8s-cbsx-prd-we-001-pip01.westeurope.cloudapp.azure.com.
+20.71.206.94
+api.ntropy.com 3.18.64.98
+3.12.122.72
+api.blochq.io 104.21.31.132
+172.67.176.139
+api.askfractal.com 
+api.saltedge.com 85.10.216.227
+api.thebankoflondon.com api.thebankoflondon.32534.fortiwebcloud.net.
+lb-2.eu-west-2.aws.waas-online.net.
+18.134.81.66
+api.creditkudos.com 
+api.ukheshe.com 
+api.toqio.co 
+api.prometeoapi.com 54.174.227.83
+3.223.76.89
+100.25.56.129
+api.onepipe.com ec2webapps-327566861.us-east-2.elb.amazonaws.com.
+3.139.11.87
+3.131.132.146
+api.numeral.io 13.37.153.176
+13.37.33.76
+15.236.59.251
+api.unnax.com 108.128.113.224
+52.211.252.191
+54.170.85.205
+api.unit.co 3.225.47.218
+35.174.94.22
+api.hubuc.com 
+api.falconfs.com 65.1.191.65
+api.volt.io 54.246.152.167
+54.217.44.88
+api.marketsimplified.com marketsimplified.com.
+3.108.69.51
+api.1silverbullet.tech 52.66.6.80
+3.108.208.65
+api.payveris.com 
+api.kevin.eu 104.22.15.179
+172.67.6.32
+104.22.14.179
+api.silvergate.com 
+api.prismdata.com t.sni.global.fastly.net.
+199.232.47.52
+api.armalytix.com 
+api.starkbank.com 34.95.85.69
+api.particeep.com 91.208.207.217
+185.42.117.108
+91.208.207.216
+46.252.181.103
+46.252.181.104
+91.208.207.214
+185.42.117.109
+91.208.207.215
+91.208.207.218
+api.hylo.biz 18.60.229.92
+18.60.27.4
+api.franq.com.br 
+api.transactionlink.io d-xdmyquira0.execute-api.eu-central-1.amazonaws.com.
+3.65.144.93
+18.193.196.70
+api.openpayments.io 
+api.todaq.net 
+api.decimaltech.com 
+api.properfinance.io 34.215.75.201
+34.223.205.97
+35.161.218.68
+34.223.145.170
+api.ewise.com ewise.com.
+13.238.73.141
+api.nayaone.com t.sni.global.fastly.net.
+199.232.47.52
+api.pollinate.global 
+api.array.com 
+api.basiq.io ssl.readmessl.com.
+104.16.241.118
+104.16.242.118
+api.okra.ng 35.180.104.200
+52.47.145.255
+35.181.205.121
+api.buckzy.net buckzypaymentsinc-prod.apigee.net.
+rgea1rt001-3-routers.dn.apigee.net.
+35.229.103.158
+api.pngme.com 172.67.68.79
+104.26.2.105
+104.26.3.105
+api.standardtreasury.com 
+api.nordigen.com applications-577652387.eu-west-1.elb.amazonaws.com.
+54.73.203.242
+52.215.26.246
+52.16.72.19
+api.knotapi.com 76.76.21.142
+76.76.21.164
+api.productfy.io k.sni.global.fastly.net.
+199.232.46.137
+api.swap.financial 
+api.jocata.com 
+api.klavi.ai ve6szhm.ng.impervadns.net.
+45.223.107.179
+api.baanx.com d-rl0lexut3b.execute-api.eu-west-2.amazonaws.com.
+35.177.85.164
+52.56.219.227
+35.179.79.34
+api.paysprint.in paysprint-prod-alb-1972085073.ap-south-1.elb.amazonaws.com.
+13.200.43.238
+3.6.61.107
+api.finqware.com 35.190.17.129
+api.frollo.com.au 
+api.fego.ai 65.1.9.110
+api.minka.io 34.111.181.160
+api.aazzur.com 35.227.221.240
+api.nofrixion.com 54.76.48.104
+api.i2cinc.com 
+api.getivy.io 
+api.syncfy.com 104.22.76.87
+172.67.7.3
+104.22.77.87
+api.mergedup.com d-vt9on8k3ea.execute-api.eu-west-2.amazonaws.com.
+3.9.71.12
+13.42.75.193
+13.42.149.2
+api.bnkbl.com 
+api.benoble.io 3.91.128.238
+api.payall.com 52.58.69.105
+18.196.155.193
+api.mbanq.com 
+api.kreditz.com 34.246.125.19
+api.kudosfinance.in 13.233.210.101
+api.contis.com 74.115.206.14
+api.trice.co public-lb-prod-1837539987.us-west-2.elb.amazonaws.com.
+52.88.182.244
+44.226.111.169
+52.41.162.150
+api.pelican.ai custom.eu-west-a.apiconnect.ibmappdomain.cloud.
+ab28074b286ce488381933a02bc061a3-139fb9f2d4439a53.elb.eu-west-2.amazonaws.com.
+13.43.124.128
+18.169.111.221
+18.169.5.235
+api.finxera.com 
+api.gotrebol.com d-d5ja70veqe.execute-api.us-east-1.amazonaws.com.
+52.207.45.97
+52.2.5.209
+3.218.77.59
+api.hypto.in 
+api.modo.com.ar 104.18.18.244
+104.18.19.244
+api.aiia.eu viia-api-prod2-northeurope-2.trafficmanager.net.
+viia-api-prod2-we.azurewebsites.net.
+waws-prod-am2-309.sip.azurewebsites.windows.net.
+waws-prod-am2-309.westeurope.cloudapp.azure.com.
+13.69.68.42
+api.moneyhubenterprise.com ext-cust.squarespace.com.
+198.49.23.145
+198.49.23.144
+198.185.159.144
+198.185.159.145
+api.quan.to 
+api.datanomik.com api-datanomik-com.datanomik.d1.rbzdns.com.
+18.211.27.151
+3.233.81.83
+api.youtap.com 223.165.76.195
+api.afterbanks.com 35.205.48.246
+api.banno.com api.banno-production.com.
+api-gcp-us-central1.banno-production.com.
+34.69.234.217
+api.neonomics.io neonomics.map.fastly.net.
+199.232.81.91
+api.integrated.finance 35.197.223.97
+api.finantier.co pr-suspensions.go.co.
+pr-suspensions-neuweb-biz.expedrion.biz.
+Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+3.219.55.41
+54.221.31.113
+api.fitbank.com.br 
+api.dojah.io 172.66.42.223
+172.66.41.33
+api.hydrogen.tech 77980.bodis.com.
+199.59.243.226
+api.transfeera.com 172.67.4.72
+104.22.26.166
+104.22.27.166
+api.paynamics.com 
+api.beyonmoney.com 16.24.88.31
+16.24.2.246
+api.mmob.com d16kn03f2nl0gm.cloudfront.net.
+13.33.30.91
+13.33.30.76
+13.33.30.11
+13.33.30.56
+api.teller.io 54.212.134.193
+44.233.231.181
+52.10.119.95
+api.payabli.com 54.163.180.236
+184.72.165.248
+api.okredo.com 213.190.49.147
+api.planky.com 35.234.145.84
+api.akoya.com 34.192.185.33
+44.212.229.236
+34.200.81.213
+api.onestack.in production-onestack-lb-1095544806.ap-south-1.elb.amazonaws.com.
+13.127.253.90
+65.0.232.247
+52.66.40.59
+api.lynx-fh.com 
+api.zimpler.com 
+api.onemoney.in prod-ecs-nlb.aws.onemoney.in.
+65.0.231.80
+52.66.90.161
+api.dapi.com k8s-ingressn-nginxing-9ec75cf3d7-8e9f8b641899bf8f.elb.us-east-1.amazonaws.com.
+34.238.12.182
+3.212.60.99
+3.213.101.219
+api.lunedata.io 20.203.125.212
+api.atlar.com infra-exter-16ulljaaak22o-39386871.eu-central-1.elb.amazonaws.com.
+18.196.86.4
+35.157.182.136
+3.78.49.60
+api.infcurion.com 
+api.bankingcircle.com 162.159.134.42
+api.tenurex.com 172.234.222.143
+172.234.222.138
+api.ninth-wave.com 
+api.bridgeapi.io api.bridgeapi.co.
+54.78.112.122
+52.212.206.131
+52.208.60.153
+api.fyndna.com 
+api.sync.money 185.151.30.199
+api.ipid.tech 
+api.difitek.com 
+api.inypay.com d-i4zclgc2zg.execute-api.ap-southeast-1.amazonaws.com.
+52.74.135.140
+54.254.72.186
+api.connectifi.co 
+api.surfboardpayments.com 
+api.financialdataexchange.org 
+api.luxhub.com 185.69.225.133
+api.percipientcx.com 66.96.162.147
+api.vodeno.com 188.128.241.151
+api.rootant.com 139.224.13.169
+api.herondata.io 
+api.payload.co 104.22.16.137
+172.67.27.54
+104.22.17.137
+api.credrails.com 
+api.iimmpact.com d3g43rm2vr16a9.cloudfront.net.
+13.33.30.46
+13.33.30.105
+13.33.30.23
+13.33.30.116
+api.bnesis.com 103.224.182.253
+api.kernolab.com 
+api.finanzblick.de 62.159.27.234
+api.credable.io 54.146.196.213
+api.finconecta.com 
+api.earnwealth.in 
+api.orwellg.com 
+api.prestatech.com 20.54.132.207
+api.finbit.io 
+api.enablebanking.com 35.210.248.233
+api.fintoc.com 172.67.70.6
+104.26.1.232
+104.26.0.232
+api.vegapay.tech 3.108.171.64
+52.66.10.121
+api.pluggy.ai prod-pluggy-sa-east-1-2114190815.sa-east-1.elb.amazonaws.com.
+54.233.77.123
+18.229.122.238
+54.94.133.216
+api.openbanking.org.uk tls-api.prd2.openbanking.org.uk.
+access.prd2.openbanking.org.uk.
+prd2-pa-eng-ext-nlb-d2a4de263cf1afa6.elb.eu-west-1.amazonaws.com.
+79.125.71.69
+3.254.221.144
+34.247.112.20
+api.paymentcomponents.com 
+api.finvu.in 103.224.243.153
+api.pollentechnologies.com 
+api.aiondigital.com 
+api.inverite.com 
+api.norbr.com 172.67.73.180
+104.26.14.51
+104.26.15.51
+api.ibanera.com 
+api.integrationlabs.co 
+api.asa.financial 
+api.just.cash 
+api.bliplabs.com 
+api.openwrks.com 172.67.167.251
+104.21.74.58
+api.pinv.it 188.166.22.199
+api.barakatech.com 
+api.arioplatform.com 
+api.pirimidtech.com pirimidtech.com.
+192.0.78.170
+192.0.78.215
+api.authvia.com d28ae1mlmwubwn.cloudfront.net.
+108.156.133.45
+108.156.133.48
+108.156.133.16
+108.156.133.8
+api.challengercash.com 
+api.fixedinvest.in 
+api.necto-api.com 
+api.payzen.io 
+api.ncash.ai 52.66.150.104
+api.aritma.com proxy-ssl.webflow.com.
+proxy-ssl-geo.webflow.com.
+13.234.100.116
+13.200.123.229
+65.0.79.182
+api.ecospend.com 
+api.skript.com.au 54.79.59.22
+3.105.56.86
+api.diid.io 
+api.connectips.com 124.41.241.186
+182.93.64.252
+43.245.85.237
+api.dinara.com 
+api.monneo.com 
+api.fidor.com 
+api.plick.eu 
+api.sentenial.com hap-kcp-7.sentenial.com.
+217.114.175.7
+api.directid.co api.direct.id.
+52.224.90.99
+api.datamart.co d2xr0ej7eysrnf.cloudfront.net.
+13.227.254.43
+13.227.254.105
+13.227.254.86
+13.227.254.78
+api.ambrela.money 
+api.finverse.com 
+api.solarisdigitalassets.com 18.184.181.222
+35.158.235.120
+api.bankflip.io 
+api.niti.ai 
+api.sophtron.com a4be77bcae0f24f6caf1cde799ba490f-b630ef759a2678f0.elb.us-west-2.amazonaws.com.
+34.221.174.4
+44.228.228.58
+35.95.197.200
+api.sochitel.com 
+api.openpayd.com 104.18.22.41
+104.18.23.41
+api.openbankproject.com acc74c22917f54e58a96143a66d666d9-81e1a34ce9ea41cf.elb.eu-central-1.amazonaws.com.
+3.125.2.2
+18.193.60.236
+52.29.42.68
+api.joineei.com 206.188.192.217
+api.fold.money 104.26.7.166
+172.67.73.196
+104.26.6.166
+api.smartfintech.eu 
+api.ibanity.com application-api.eu-central-1.production.ibanity.net.
+3.121.92.95
+3.122.77.165
+18.197.248.50
+api.openbanking.ng 
+api.layer2financial.com 
+api.kbfina.com 
+api.buildd.in 
+api.ruleset.ai 
+api.creditchek.africa 172.66.43.116
+172.66.40.140
+api.ecaps.in 
+api.truid.co.za 
+api.powens.com 
+api.anumati.co.in 
+api.infinios.com 
+api.irix.in 
+api.victorfi.com 52.3.131.94
+54.157.105.49
+34.227.164.122
+api.ordohq.com 
+api.aperidata.com 
+api.wafi.cash 34.82.202.210
+api.qardfinance.com 15.237.120.232
+api.finapi.io 
+api.hupofintech.com 47.101.104.30
+api.auka.io 
+api.tuna.uy 
+api.singularbanking.com 
+api.aurigraph.io 
+api.kosma.com 
+api.cardcenterdirect.com 
+api.fintechblocks.com 13.81.46.120
+api.yes.com 54.37.94.192
+api.banfico.com 
+api.shuttlehq.com prod-api-shuttle.onrender.com.
+prod-api-shuttle.onrender.com.cdn.cloudflare.net.
+216.24.57.252
+216.24.57.4
+api.starmoney.de 
+api.zeeh.africa zeeh-v2-live.eba-2mp8qyid.us-east-1.elasticbeanstalk.com.
+54.82.237.110
+3.213.160.205
+18.233.190.147
+api.hubfintech.com.br 
+api.visiblecapital.io 
+api.q-platform.ru 
+api.openfuture.world 
+api.cashoff.global 
+api.fintechmagalu.com.br 
+api.swkbank.de 212.211.195.86
+api.sissdataservices.com.au 
+api.finchxp.com d1vodl0rt44s6s.cloudfront.net.
+108.157.254.73
+108.157.254.92
+108.157.254.38
+108.157.254.120
+api.pelicanpay.com 
+api.enzagroup.global 
+api.strabo.app 3.165.82.73
+3.165.82.34
+3.165.82.4
+3.165.82.94
+api.jigsaw.xyz 
+api.paycorp.io prod-pcrp-nlb-880a83db2c39250a.elb.ap-south-1.amazonaws.com.
+3.7.14.87
+3.108.76.95
+api.tukana.io 18.130.127.140
+api.tamarack.ai 
+api.pave.dev prod-kong-529413977.us-east-1.elb.amazonaws.com.
+54.160.151.233
+3.214.128.179
+api.mytra.money 128.199.21.187
+api.noda.live noda-api.azurewebsites.net.
+waws-prod-am2-369.sip.azurewebsites.windows.net.
+waws-prod-am2-369-murr.westeurope.cloudapp.azure.com.
+20.50.2.23
+api.miicaja.org 
+api.santanderhackathon.co.uk 
+api.eurobits.com 
+api.obconnect.io a897c1bc74f9f46d99ab5a038db7f604-7e7c20d026592e04.elb.eu-west-1.amazonaws.com.
+18.203.195.89
+34.246.167.89
+108.129.47.105
+api.i-turmeric.com 
+api.fragment.dev 13.33.30.53
+13.33.30.80
+13.33.30.21
+13.33.30.92
+api.monu.se prod.monu.se.
+prod2.monu.se.
+176.10.235.118
+api.linaopenx.com.br 
+api.finansystech.com.br 18.216.151.196
+api.plunzo.com 77980.bodis.com.
+199.59.243.226
+api.jazztech.com.br xtssbkk.impervadns.net.
+45.223.169.132
+api.enacomm.netlify.app 46.137.195.11
+52.74.166.77
+api.payout.com 
+api.medici.bank 
+api.kontomatik.com 35.234.66.151
+api.connectperfect.io 3.6.21.217
+api.cngpro.com 
+api.tesobe.com 
+api.fintechsandpit.com ec2-63-33-84-236.eu-west-1.compute.amazonaws.com.
+63.33.84.236
+api.lumonic.com lumonic-prod-lb-823509334.us-east-1.elb.amazonaws.com.
+18.233.191.167
+184.73.108.70
+3.212.171.86
+api.pop.mu 
+api.clearstake.com public-lb-179932577.eu-west-2.elb.amazonaws.com.
+18.130.145.50
+18.170.146.104
+api.hipmoney.com.au 
+api.quikepic.co 
+api.twisp.com 
+api.crassula.io wl1.crassula.io.
+35.201.123.40
+api.finshark.io finshark-api-prod-a8cycjgwdzcxf2ck.z01.azurefd.net.
+star-azurefd-prod.trafficmanager.net.
+shed.dual-low.s-part-0031.t-0009.t-msedge.net.
+s-part-0031.t-0009.t-msedge.net.
+13.107.246.59
+api.getfuturebank.com 4.222.16.114
+api.smarter-financial.co.uk 
+api.opaay.io 
+api.yodleefinsoft.com 
+api.quickpays.in 
+api.b52holding.com 
+api.paywoke.com 
+api.sensfi.com 
+api.acaciamoney.com 
+api.handybank.ru 
+api.arca.network 15.197.183.194
+api.ducit.ai ducit.ai.
+api.b54.co 51.159.104.71
+api.sesami.io 
+api.purpleplumfi.com 139.59.70.4
+api.canopuslab.com 
+api.cbiglobe.com 
+api.neemexponential.com 198.185.159.144
+198.49.23.144
+api.finbloc.com 
+api.vlinder.app 
+api.openbankingtracker.com 76.76.21.22
+76.76.21.98
+api.piepeople.io 
+api.cloud-africa.io 
+api.mojaloop.io 
+api.forpeeps.eu 
+api.dbridge.info dbridge-prod-alb-1818425048.eu-west-1.elb.amazonaws.com.
+54.154.156.208
+54.217.195.245
+api.apixplatform.com 18.138.193.245
+18.139.210.208
+18.139.218.86
+api.multiplicarinvestimentos.com.br 
+api.techadvance.ng 
+api.singleview.com.sa 
+api.myvaluesolutions.com 
+api.apibanking.com d-0fwi2zhclh.execute-api.ap-south-1.amazonaws.com.
+13.127.170.133
+13.127.66.255
+api.vomsis.com 93.190.216.207
+api.tapix.io 
+api.underlie.tech 
+api.stitch.fi 
+api.janusea.com 
+api.fino.group 85.13.142.140
+api.apilogic.pro 
+api.akropoli.tech 
+api.femion.pl 185.255.40.43
+api.paythings.com 
+api.wysely.co 
+api.fsbt.tech 
+api.alvin.finance 
+api.tappengine.com 
+api.baas.is 
+api.opnfi.com 
+api.openbankingproject.ch 52.143.154.232
+api.fintechapi.io 
+api.proviso.com.au 
+api.passportfintech.com 
+api.mentium.io mentium-alb-244269730.us-east-1.elb.amazonaws.com.
+34.196.193.53
+54.85.9.111
+107.21.57.233
+api.financekey.com 
+api.smartbilldata.com 
+api.banksapi.de 
+api.trystaq.com d-o99qvu0rv6.execute-api.ap-southeast-1.amazonaws.com.
+13.213.86.139
+52.77.27.142
+api.btx.digital 
+api.kosh.ai 
+api.financialapps.com 
+api.billeasy.co 
+api.aplonapi.com aplonapi-elb-1438100103.eu-central-1.elb.amazonaws.com.
+52.58.69.231
+3.125.97.146
+api.infraclear.com 
+api.santanderlabs.io 
+api.3rdvista.com 103.185.249.53
+api.ginifinance.com 
+api.fabric.ac 
+api.ibvnow.com 
+api.hapi.pt 
+api.buildersbank.tech 
+api.credigo.io 
+api.radiowire.in 
+api.digiledge.in phs.getpostman.com.
+54.165.222.104
+54.145.96.213
+34.233.254.91
+api.ahlisandbox.com 
+api.gliderfi.com 54.242.201.129
+api.cocoon-payments.com 
+api.open-finance.ai 104.26.9.60
+104.26.8.60
+172.67.71.206
+api.cashful.africa api-f9ak5.ondigitalocean.app.
+172.66.0.96
+162.159.140.98
+api.fusionfabric.cloud pglp1110152k001.trafficmanager.net.
+40.112.178.241
+api.heliumverify.com 
+api.lendingapp.io 
+api.itsmartsystems.eu 
+api.eossoftware.mx 
+api.starfinanz-ahoi.de 
+api.bankstatementanalyzer.com 3.64.163.50
+api.icolumbus.ai 
+api.unnax.mx prod-mx-def-lb-669352481.us-east-1.elb.amazonaws.com.
+18.205.230.63
+35.153.196.76
+54.145.209.176
+api.reflow.zone 
+api.mobifin.com 
+api.finmedia.uz 
+api.cardgeny.com 
+api.lune.ae 
+api.obicanada.ca 
+api.zuelpay.com 13.235.20.118
+43.204.153.202
+3.108.160.159
+api.youcal.com 
+api.cocoon-finance.com 
+api.bbvaopenplatform.com 
+api.monerchy.com 
+api.onledger.co.uk 
+api.banq.ai 76.76.21.98
+76.76.21.22
+api.aggreg8.io 168.63.121.9
+api.nanobnk.com 
+api.ekosconnect.com 54.179.10.131
+52.76.72.20
+52.74.44.86
+api.spendjuice.org 
+api.fintellity.com 
+api.pentadatainc.com 52.9.181.8
+54.67.79.89
+api.psd2hub.com 
+api.camelotwave.com 173.214.162.217
+api.osko.com 
+api.cygnet-aa.com 
+api.simbas.io 
+api.creditconnect.asia 
+api.inno.tech 
+api.afinis.org 172.67.161.45
+104.21.90.208
+api.spiretech.co 
+api.bankly.com.br 104.18.15.49
+104.18.14.49
+api.fiskil.com.au 
+api.em.bank 172.67.10.245
+104.22.64.119
+104.22.65.119
+api.xformative.com 
+api.stitchcredit.com mwareapi-lb-1955357492.us-east-1.elb.amazonaws.com.
+18.210.74.123
+52.203.196.149
+api.hoddle.app 
+api.inflow.finance 3.134.110.70
+api.cuapps.co.uk 52.16.156.112
+18.202.181.108
+api.bitcapital.com.br 
+api.payoro.com 13.49.232.163
+51.20.149.79
+51.20.233.179
+api.42flows.tech 
+api.truent.ai d2gsqt2nag2t01.cloudfront.net.
+13.33.88.51
+13.33.88.2
+13.33.88.30
+13.33.88.77
+api.busybox.in 103.195.245.81
+api.thefinx.io 172.67.75.225
+104.26.3.156
+104.26.2.156
+api.pulsproject.de 
+api.addventures.io 35.214.121.211
+api.limitlesstech.io 5.28.41.30
+api.neobnk.sg 
+api.hi-archie.co 
+api.pichtechnologies.com 
+api.geldboost.de 
+api.tm-pro.eu 
+api.corepro.io api.corepro.io.cdn.cloudflare.net.
+192.0.63.246
+192.0.54.10
+api.bnc.co.il 
+api.hatchbank.com 
+api.tictoc.ai d1o81fo0fhhgo0.cloudfront.net.
+13.225.4.53
+13.225.4.22
+13.225.4.67
+13.225.4.76
+api.thefintechlab.com 
+api.crosskey.io 54.77.245.185
+54.220.139.241
+34.241.9.179
+api.moneymoney.hk 
+api.ebicsbox.com 
+api.design-banking.com 
+api.apilion.io 
+api.inspay.in 
+api.finscale.org 
+api.bizz91.com 
+api.finq.io 
+api.calcfox.io 
+api.northbricks.com 
+api.trefoiltechnology.com 
+api.todo1services.com 
+api.openrep.cloud 
+api.quantum.az 
+api.fliqa.io 
+api.theopenbankingportal.com 
+api.datanimbus.com 
+api.everst.eu 
+api.highwaybaas.com 
+api.macroglobal.co.uk 4.234.91.234
+api.fena.co 
+api.finspace.io 3.64.163.50
+api.cytrone.com 
+api.bank.tech bt-public-run-prod-frontdoor.azurefd.net.
+azurefd-t-prod.trafficmanager.net.
+shed.dual-low.s-part-0031.t-0009.t-msedge.net.
+s-part-0031.t-0009.t-msedge.net.
+13.107.246.59
+api.ripehub.com 
+api.airapi.io 85.111.64.35
+api.velloci.com 
+api.payvenue.tech 
+api.corefx.com 
+api.litefin.net 
+api.somosfloid.com 
+api.withbrank.com gentle-chinchilla-xdkmfkoyplu1oo7kdjxbirb0.herokudns.com.
+api.octans.finance 
+api.cirenio.com 157.245.11.212
+api.zoogla.co.uk 18.132.160.79
+api.kolecty.com 
+api.valid8.online 
+api.codexplore.tech 
+api.bigeltd.com 176.32.230.18
+api.bankio.co.uk inventio.go.ro.
+86.122.13.134
+api.mojek.in 3.111.132.183
+api.netekstre.com 37.205.1.7
+api.oolys.com 
+api.miuft.com 
+api.turnkeyio.com 
+api.obanky.com traff-2.hugedomains.com.
+hdr-nlb5-4e815dd67a14bf7f.elb.us-east-2.amazonaws.com.
+3.130.253.23
+3.130.204.160
+api.contaquanto.com.br 
+api.qognitiv.io 16.171.251.19
+api.spadedata.com 
+api.creadily.com 
+api.unifiedapi.io 87.98.234.12
+api.trustloop.io 
+api.kiir.io 
+api.turazglobal.com 
+api.pagme.app 
+api.bbvaapimarket.com 
+api.transeact.com 
+api.webank.co.il 
+api.hoola.technology 
+api.menteca.com.br 
+api.finfini.com 34.101.112.180
+api.reactivepay.com main-rp-old.reactivepay.com.
+78.47.255.108
+api.aerapass.io 108.156.133.81
+108.156.133.26
+108.156.133.128
+108.156.133.73
+api.bankconnect.io 104.21.90.178
+172.67.158.235
+api.addbank.io 
+api.oxlin.io oxlin-prod-openapi.exploit.ec2.oxlin.net.
+ext-lb-oxlin-prod.linxo-connect.ec2.oxlin.net.
+ext-lb.eu-west-1.linxo-connect.blue.k8s.ec2.oxlin.net.
+k8s-istioexternal-81c4c81488-864177991.eu-west-1.elb.amazonaws.com.
+54.72.166.128
+54.76.7.92
+99.81.63.151
+api.acies.ai 
+api.finscale.us 
+api.ncrfuse.xyz 
+api.zizy.io 
+api.01financials.eu eh-srv-wa-01f-api-prod.azurewebsites.net.
+waws-prod-par-007.sip.azurewebsites.windows.net.
+waws-prod-par-007.francecentral.cloudapp.azure.com.
+40.79.130.128
+api.fincrux.com traff-6.hugedomains.com.
+hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
+3.140.13.188
+18.119.154.66
+api.thebanksly.com 
+api.ootbob.com 
+api.cashlobe.com 
+api.bankamyanimda.com 
+api.neobook.in 
+api.ftek.in 
+api.getelements.in 
+api.finmaks.com 
+api.101obex.com 144.202.101.85
+api.sampa.solutions 
+api.finoxy.io 
+api.nuclent.com 104.26.3.58
+104.26.2.58
+172.67.73.161
+api.sanbod.co 193.56.59.82
+api.payshopx.com.br 
+api.debit.plus 
+api.connectwithfabric.com 
+api.transactiontransform.com 
+api.citizenschallenge.com 172.67.182.61
+104.21.75.216
+api.redbanx.com 
+api.mitrajasalima.id mitrajasalima.id.
+192.0.78.234
+192.0.78.136
+api.simnectz.com 
+api.bank4.com.br 
+api.paymga.com 
+api.fintech.ge 
+api.finik.pro finik.pro.
+5.9.123.70
+api.octans.tech 13.248.169.48
+76.223.54.146
+api.rvdnow.com 
+api.nextbankingapi.com 89.31.143.90
+api.teknitive.com 
+api.smartpoints.dev 
+api.xpanse.fi a5f30e8bd5c2a4b1dba29ca93bb7c889-1419177987.ap-southeast-1.elb.amazonaws.com.
+52.74.146.174
+api.leancore.co 
+api.genify.ai 
+api.theopenbanking.org 
+api.banqart.com 
+api.factfin.com 
+api.plateabanking.com 
+api.swissbanking.tech 
+api.finexer.com finexerapi.azurewebsites.net.
+waws-prod-db3-091.sip.azurewebsites.windows.net.
+waws-prod-db3-091.northeurope.cloudapp.azure.com.
+52.178.208.12
+api.alandindexsolutions.com 
+api.common-api.ch 
+api.banknit.io 
+api.abstractnowuat.com 
+api.riverinnovfin.com 
+api.atlanticfuture.com 
+api.apix.com.hk 
+api.getsari.com 
+api.seavuspsd2.com 
+api.iban-bic-api.de 46.4.144.219
+api.fintechnobank.tech 
+api.xettle.io 77980.bodis.com.
+199.59.243.226
+api.l37bank.com 
+api.bestcreditapi.com 
+api.bankinplay.com 35.214.177.159
+api.finiteapi.com 
+api.qorefi.co 
+api.top10-online-banking.com 
+api.moba.finance 
+api.nashafrica.co pr-suspensions.go.co.
+pr-suspensions-neuweb-biz.expedrion.biz.
+Registry-Web-Suspension-1912215664.us-east-1.elb.amazonaws.com.
+54.221.31.113
+3.219.55.41
+api.kontoapi.de 104.21.55.104
+172.67.147.120
+api.bnkpay.co.uk 
+api.ippostack.com 104.18.23.44
+104.18.22.44
+api.rockpayfin.com 
+api.syariahfintech.com 
+api.bankio.at inventio.go.ro.
+86.122.13.134
+api.radaropenbanking.com 
+api.theoxipay.in 
+api.criarbancodigital.com 
+api.karma.ng 172.67.128.177
+104.21.2.41
+api.illumefinancial.com 
+api.aboutfindox.com 
+api.rupiso.in 
+api.lemmepay.co.uk 65.109.70.36
+api.finshub.org 172.67.196.85
+104.21.44.61
+api.maimag.cl 172.67.158.166
+104.21.14.107
+api.sungarddx.com 
+api.tib.finance 
+api.fininsandbox.com 
+api.platern.com 
+api.datapaas.net 
+api.moneydwar.com 
+api.third.co parking.bodis.com.
+199.59.243.226
+api.usecontra.now.sh 76.76.21.9
+76.76.21.61
+api.quikk.dev 34.65.13.227
+api.dsp2.fr 
+api.spikedata.co.za 13.245.98.200
+api.spikedata.co.za 13.245.98.200
+api.aifinancewallet.com 
+api.bharatneobank.com 
+api.lodinpay.io 
+api.tryfetch.me 5.28.41.30
+api.transunionplus.com 
+api.trampolin.com.br 
+api.smartbank.com.br d-8kmvdivoh6.execute-api.sa-east-1.amazonaws.com.
+54.232.217.105
+54.94.50.1
+api.psd2php.org 
+api.tilisy.com 35.210.184.33
+api.banktech.dk 
+api.dw-dynamics.com dw-dynamics.com.
+54.75.32.29
+52.51.59.189
+api.amlet.eu 
+api.hivelinq.com 
+api.bluribans.com 192.64.119.254
+api.agnostipay.io 
+api.silentdata.com 
+api.bgportalen.se 
+api.fuqianla.net dns-pool2.fuqianla.net.
+qb000242r39x1em4.aliyunddos1002.com.
+203.107.84.157
+api.useinfinite.co.uk 
+api.monto.ai api.prod-monto.monto.ai.
+13.49.189.136
+51.20.243.186
+51.20.58.162
+api.yaxi.tech 
+api.ahlipulsa.com 
+api.underpay.io 3.9.251.86
+18.170.173.110
+api.bankingstack.io 76.76.21.98
+76.76.21.93
+api.balancemoney.io 
+api.andsolutions.net 
+api.yordex-platforms.com 
+api.sparxdigital.net 
+api.fimento.com 3.120.47.157
+18.198.142.243
+52.57.168.23
+api.corpbank.su 
+api.juicebanking.com 69.16.225.148
+api.rabet.tech 
+api.lavatechai.com 
+api.sedrapay.com 
+api.finaiapps.com 
+api.jipaypsl.com 
+api.prudensia.fr 
+api.blott.money d-pmbsoao5vk.execute-api.eu-west-2.amazonaws.com.
+18.135.205.76
+3.10.0.250
+18.171.47.64
+api.animotechnology.com 
+api.unitedsecuritydeposits.com 
+api.andregina.de 
+api.openbankingbnpparibas.pl 
+api.apigo.com apigo.com.
+85.111.64.91
+api.creditapi.ru 104.21.8.94
+172.67.130.107
+api.falu.io gateway.jollyplant-9349db20.westeurope.azurecontainerapps.io.
+20.82.56.19
+api.mutasi.co.id 107.152.46.70
+api.bliq.tech 193.180.185.181
+api.bankoyo.com 
+api.socialpaycorp.com 
+api.fftech.co.uk 
+api.frecuencialatinoamerica.com 
+api.denovo.si 
+api.pelvo.io 34.65.92.204
+api.fafidai.com 
+api.banky.io 3.66.3.149
+3.66.202.51
+3.66.208.171
+api.system61.com 
+api.pay2.com.br 104.26.1.176
+104.26.0.176
+172.67.69.249
+api.acsiss.com.au siss-adris-gbl-fd-prod.azurefd.net.
+azurefd-t-prod.trafficmanager.net.
+shed.dual-low.s-part-0031.t-0009.t-msedge.net.
+s-part-0031.t-0009.t-msedge.net.
+13.107.246.59
+api.regrisut.info 
+api.adiba.app 
+api.synthfin.com 
+api.taginfraestrutura.com.br 34.117.37.96
+api.authlayer.in 
+api.fintechxperts.com 
+api.promptly.co 3.64.163.50
+api.51ibank.com 
+api.banqueo.com 
+api.opencredito.net 
+api.swissmoney.com 104.22.50.84
+104.22.51.84
+172.67.25.156
+api.yfbconnect.com 
+api.omnivue.io 
+api.bankfy.com.br 
+api.openbankaccount.org 185.215.4.66
+api.porterpays.com 
+api.mfit.co.in 
+api.moffin.mx 
+api.lett.run 
+api.abstractnow.ai 
+api.tplus.io 
+api.simple-banking.com 
+api.bankio.fr 
+api.empirezip.com 
+api.jackhenry.design 
+api.ibanvault.com 
