@@ -1,1 +1,17 @@
-This repository serves as a reference for my dissertation paper at the University of West London. It is about securing open banking and contains a list of relevant third-party providers (TPP). The TPPs' data includes the site's HTTP header information and IP address hosting.
+This repository serves as a reference for a dissertation paper by Paul Pajares at the University of West London.
+The title of the research is Securing Open Banking Ecosystem: Examining Challenges in API Security and Underlying Risks.
+It highlights the problems in open banking, including how to secure it, address security challenges, mitigate security 
+risks from third-party providers (TPP), and develop robust API security strategies.
+This GitHub page contains the TPPs' data, including the site's HTTP header information and IP address hosting.
+
+Description of the files uploaded:
+Homepage-HTTPHeader.txt - This file contains the HTTP header raw data fetched from the 700 TPP sites using the cURL command.
+Homepage-IP.txt - This file contains the IP addresses or A records of the domain from the 700 TPP sites using the Dig command.
+outHTTP (API domains).txt - This file contains the HTTP header raw data fetched from the 700 TPP sites (api.domain.com) using the cURL command.
+outIP (API domains).txt -  This file contains the IP addresses or A records of the domain from the 700 TPP sites (api.domain.com) using Dig command.
+run.sh - This bash script file performs the cURL and Dig command. Requires to input list of domains at domain.txt.
+For process flow, refer to Refer to TPP sites reconnaisance process flow.png
+
+
+
+
